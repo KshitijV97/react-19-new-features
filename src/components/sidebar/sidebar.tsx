@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, JSX } from "react";
 import { NavLink } from "react-router-dom";
 import { ExpandedItems } from "../../types";
 import { menuItems } from "./items";
