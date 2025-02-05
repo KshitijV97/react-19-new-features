@@ -8,6 +8,8 @@ export const menuItems: MenuItem[] = [
 		subItems: [
 			{ title: "Passing down ref", path: "/ref" },
 			{ title: "use() hook", path: "/use" },
+			{ title: "useFormStatus", path: "/use-form-status" },
+			{ title: "useOptimistic", path: "/use-optimistic" },
 		],
 	},
 ];
